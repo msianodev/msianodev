@@ -1,5 +1,5 @@
 - 👋 Hello, I'm Matías Siano, a software engineer based in Mar del Plata, Argentina.
-- 👀 Hello, I'm Matías Siano, a software engineer based in Mar del Plata, Argentina.
+- 👀 I'm passionate about learning new technologies and building innovative solutions.
 - 🌱 I'm currently learning:
                             * Python
                             * C#
