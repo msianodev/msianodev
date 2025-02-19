@@ -11,5 +11,5 @@
                             * Power Automate
                             * Artificial Intelligence
                             * Delivery Cloud
-- 🏫 I'm also studying software engineering at the UTN Mar del Plata.
+- 🏫 I'm study software engineering at the UTN Mar del Plata.
 - 📫 You can contact me by email at matias.siano@outlook.com.
